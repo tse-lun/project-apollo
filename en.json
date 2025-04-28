@@ -19,7 +19,16 @@
   },
   "languages": {
     "title": "Languages",
-    "english": "Chinese: Native"
+    "items": [
+      {
+        "language": "English",
+        "level": "Native"
+      },
+      {
+        "language": "Chinese",
+        "level": "Native"
+      }
+    ]
   },
   "introduction": {
     "title": "Introduction",
