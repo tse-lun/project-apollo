@@ -41,7 +41,7 @@
         "協助導入 TouchNet 數位支付平台，取代舊有的 ePayment 系統，為學生提供多樣支付選項，提升支付處理效率，並實作 webhook 串接，確保支付資料即時回傳與驗證（約 CAD 48.6M）。",
         "提供技術支援與培訓，透過現場培訓、線上文件與 Q&A 會議，並使用 ServiceNow 處理票務系統，解決使用者問題，提升操作效率。"
       ],
-      "stack": "HTML, CSS, JavaScript, AJAX, PHP, PL/SQL, Oracle DB",
+      "stack": "HTML, CSS, JavaScript, AJAX, PHP, PL/SQL, Oracle DB"
     },
     {
       "title": "Konrad Group｜後端開發工程師｜2022/05 – 2023/09",
@@ -53,7 +53,7 @@
         "設計並實現高效的 RESTful API，運用 JSON 格式進行數據交換，結合 OpenAPI 標準生成 API 文檔，並利用 Confluence 促進跨部門協作，通過 Rest Assured 測試 API，確保接口的穩定性和高可用性。",
         "優化 CI/CD 流程，顯著提升功能部署效率，並撰寫單元測試與整合測試，確保代碼品質，支援快速迭代和持續交付，提升系統運行穩定性。"
       ],
-      "stack": "Java 17, Spring Boot 3, WebFlux, Spring Security, OAuth 2.0, Redis, Docker, AWS, Kubernetes, Git, Jira, OpenAPI, JUnit5, Mockito, Confluence",
+      "stack": "Java 17, Spring Boot 3, WebFlux, Spring Security, OAuth 2.0, Redis, Docker, AWS, Kubernetes, Git, Jira, OpenAPI, JUnit5, Mockito, Confluence"
     },
     {
       "title": "Medico-Supplies Inc｜iOS 工程師｜2021/02 – 2022/05",
@@ -63,7 +63,7 @@
         "整合 3D 相機 SDK 至 iPad 的 Objective-C 架構，解決相容性問題，並利用 MVC 架構優化代碼維護性。",
         "開發 BLE/NFC 通訊模組，並使用 SwiftUI 構建直觀的視覺化介面，提升系統互動性與用戶體驗。"
       ],
-      "stack": "Swift, UIKit, SwiftUI, Objective-C, C++, BLE, NFC, TrueDepth, MVC, MVVM",
+      "stack": "Swift, UIKit, SwiftUI, Objective-C, C++, BLE, NFC, TrueDepth, MVC, MVVM"
     }
   ]
 }
