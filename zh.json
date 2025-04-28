@@ -19,7 +19,16 @@
   },
   "languages": {
     "title": "語言能力",
-    "item": "英文: 母語"
+    "items": [
+      {
+        "language": "英文",
+        "level": "母語"
+      },
+      {
+        "language": "中文",
+        "level": "母語"
+      }
+    ]
   },
   "introduction": {
     "title": "簡介",
