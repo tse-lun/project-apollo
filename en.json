@@ -1,0 +1,52 @@
+{
+  "name": "Stephen Chiu",
+  "title": "Backend Engineer",
+  "education": {
+    "title": "Education",
+    "school": "Simon Fraser University",
+    "location": "Burnaby, BC, Canada",
+    "degree": "Bachelor of Computer Science"
+  },
+  "skills": {
+    "title": "Skills",
+    "backend": ["Java", "Spring Boot", "PHP"],
+    "frontend": ["HTML", "CSS", "JavaScript"],
+    "database": ["MySQL", "Oracle"]
+  },
+  "certifications": {
+    "title": "Certifications",
+    "certification": "AWS Cloud Practitioner"
+  },
+  "languages": {
+    "title": "Languages",
+    "english": "Native"
+  },
+  "introduction": {
+    "title": "Introduction",
+    "text": "Experienced Backend Engineer specializing in Java and Spring Boot."
+  },
+  "experience": {
+    "title": "Experience",
+    "jobs": [
+      {
+        "company": "UBC",
+        "position": "Programmer Analyst",
+        "responsibilities": [
+          "Developed web applications",
+          "Collaborated with cross-functional teams"
+        ],
+        "technologies": ["Java", "PHP", "PL/SQL"]
+      },
+      {
+        "company": "Konrad Group",
+        "position": "Software Engineer",
+        "responsibilities": [
+          "Developed core modules for Amex's MyCreditGuide and CreditSecure, enabling Amex to perform real-time credit record queries and change notifications.",
+          "Developed high-performance backend services using Java 17 and Spring Boot 3, handling high-concurrency asynchronous requests with WebFlux.",
+          "Created Docker images to facilitate seamless deployment to AWS EC2 with Kubernetes (K8s), improving resource utilization and system scalability."
+        ],
+        "technologies": ["Java 17", "Spring Boot 3", "WebFlux", "Spring Security", "OAuth 2.0", "Redis", "Docker", "AWS", "Kubernetes"]
+      }
+    ]
+  }
+}
