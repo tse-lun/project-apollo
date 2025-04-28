@@ -1,20 +1,20 @@
 {
   "me": "邱澤倫 | 後端開發工程師",
   "education": [
-    {"title":"Simon Fraser University", "details":["本拿比市/卑詩省/加拿大","BSc - Computer Science","大學畢業","2018/09~2020/09"]}
+    {"title":"西門菲莎大學", "details":["本拿比市/卑詩省/加拿大","計算機科學學士","大學畢業","2018/09~2020/09"]}
   ],
   "certifications": [
-    {"title":"AWS Certified Cloud Practitioner", "details":["Obtained May 2023"]}
+    {"title":"AWS 認證雲端基礎知識專業人員", "details":["取得時間: 2023年5月"]}
   ],
   "skills": [
-    {"title":"Backend", "details":["Java (17+)","Spring Boot","PHP","JPA, Hibernate"]},
-    {"title":"Frontend", "details":["HTML","CSS","JS (AJAX)","Swift"]},
-    {"title":"DB & Cloud", "details":["Oracle (PL/SQL)","MySQL","PostgreSQL","Flyway","AWS"]},
-    {"title":"Security", "details":["角色認證","JWT","OAuth2"]},
-    {"title":"Testing", "details":["單元/整合測試","JUnit5","Mockito","Postman","Rest Assured"]},
+    {"title":"後端", "details":["Java (17+)","Spring Boot","PHP","JPA, Hibernate"]},
+    {"title":"前端", "details":["HTML","CSS","JS (AJAX)","Swift"]},
+    {"title":"資料庫與雲端", "details":["Oracle (PL/SQL)","MySQL","PostgreSQL","Flyway","AWS"]},
+    {"title":"安全性", "details":["角色認證","JWT","OAuth2"]},
+    {"title":"測試", "details":["單元/整合測試","JUnit5","Mockito","Postman","Rest Assured"]},
     {"title":"CI/CD", "details":["Docker","Kubernetes","Git","GitHub Actions"]},
-    {"title":"Arch & Design", "details":["RESTful API","MVC, WebFlux","IoC, AOP"]},
-    {"title":"Langs", "details":["English: Native","Chinese: Native"]}
+    {"title":"架構與設計", "details":["RESTful API","MVC, WebFlux","IoC, AOP"]},
+    {"title":"語言", "details":["英語: 母語","中文: 母語"]}
   ],
   "sum": "擁有豐富的程式語言與跨國團隊合作經驗，專精於 Java 與 Spring Boot 後端開發。曾參與金融科技與教育系統等關鍵專案，具備高併發系統設計經驗及雲端架構證書。能在指導有限的情況下獨立解決複雜技術挑戰，並具備卓越的問題解決能力與自我驅動的工作態度。擅於學習並持續深化技術專業。",
   "key": [
