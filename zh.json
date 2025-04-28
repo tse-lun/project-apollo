@@ -30,51 +30,36 @@
       "跨部門、跨時區協作：在英屬哥倫比亞大學（UBC）里程碑專案中，轉化需求為關鍵功能，與內外團隊密切協作，按時交付並成功達成專案目標。"
     ]
   },
-  "exp": [
+  "experiences": [
     {
-      "comp": "UBC",
-      "pos": "程式分析師",
-      "dur": "2024/01 – 2024/12",
-      "tasks": [
+      "title": "UBC｜程式分析師｜2024/01 – 2024/12",
+      "details": [
         "重構學生宿舍系統，將原有的 Java 桌面應用轉為基於 PHP 與 PL/SQL 的 Web 架構，並運用 AJAX 提升頁面效能，同時為員工提供宿舍相關的 SSRS 住房報告，支援業務流程與決策。",
         "參與 SIS 到 Workday Student 系統的整合專案，負責設計資料交換流程、API 設計和資料轉換，確保資料一致性，並與 Workday 團隊合作調整和測試 API。",
         "實現學生申請系統與候補名單管理功能，支持學生選擇宿舍及支付程序，並提供實時支付狀態更新和支付結果通知，確保系統準確性與用戶體驗。",
         "使用 PL/SQL 開發夜間批次資料同步流程，並設計錯誤檢查機制，減少人工干預，確保資料準確性。",
         "協助導入 TouchNet 數位支付平台，取代舊有的 ePayment 系統，為學生提供多樣支付選項，提升支付處理效率，並實作 webhook 串接，確保支付資料即時回傳與驗證（約 CAD 48.6M）。",
         "提供技術支援與培訓，透過現場培訓、線上文件與 Q&A 會議，並使用 ServiceNow 處理票務系統，解決使用者問題，提升操作效率。"
-      ],
-      "stack": [
-        "HTML", "CSS", "JavaScript", "AJAX", "PHP", "PL/SQL", "Oracle DB"
       ]
     },
     {
-      "comp": "Konrad Group",
-      "pos": "後端開發工程師",
-      "dur": "2022/05 – 2023/09",
-      "tasks": [
+      "title": "Konrad Group｜後端開發工程師｜2022/05 – 2023/09",
+      "details": [
         "開發 MyCreditGuide 與 CreditSecure 核心模組，讓 Amex 能夠利用 Experian 提供即時信用紀錄查詢及異動通知服務，顯著提升用戶體驗與服務質量。",
         "使用 Java 17 和 Spring Boot 3 開發高效能後端服務，運用 WebFlux 技術處理高並發非同步請求，並結合 Spring Security 和 OAuth 2.0 強化資料傳輸與儲存的安全性。",
         "創建 Docker 映像檔，協助將服務無縫部署至 Kubernetes (K8s) 於 AWS EC2 上運行，有效提升資源利用率並強化系統的可擴展性。",
         "在 Agile 開發環境中，與跨部門團隊（前端、DevOps、QA 和 PM）及外部跨時區團隊緊密協作，確保系統整體一致性，並使用 Jira 精準管理技術規格和需求，確保專案準時交付。",
         "設計並實現高效的 RESTful API，運用 JSON 格式進行數據交換，結合 OpenAPI 標準生成 API 文檔，並利用 Confluence 促進跨部門協作，通過 Rest Assured 測試 API，確保接口的穩定性和高可用性。",
         "優化 CI/CD 流程，顯著提升功能部署效率，並撰寫單元測試與整合測試，確保代碼品質，支援快速迭代和持續交付，提升系統運行穩定性。"
-      ],
-      "stack": [
-        "Java 17", "Spring Boot 3", "WebFlux", "Spring Security", "OAuth 2.0", "Redis", "Docker", "AWS", "Kubernetes", "Git", "Jira", "OpenAPI", "JUnit5", "Mockito", "Confluence"
       ]
     },
     {
-      "comp": "Medico-Supplies Inc",
-      "pos": "iOS 工程師",
-      "dur": "2021/02 – 2022/05",
-      "tasks": [
+      "title": "Medico-Supplies Inc｜iOS 工程師｜2021/02 – 2022/05",
+      "details": [
         "獨立主導四個 iOS 項目的開發，涵蓋需求分析、設計、編碼到上架。",
         "參與醫療科技應用開發，負責需求收集與分析掃描精度，將 3D 掃描演算法整合至 iOS，並運用 C++ 模組與 TrueDepth 相機提升精度，通過多線程技術將 3D 模型生成時間從 1 分鐘縮短至 10 秒，解決技術挑戰。",
         "整合 3D 相機 SDK 至 iPad 的 Objective-C 架構，解決相容性問題，並利用 MVC 架構優化代碼維護性。",
         "開發 BLE/NFC 通訊模組，並使用 SwiftUI 構建直觀的視覺化介面，提升系統互動性與用戶體驗。"
-      ],
-      "stack": [
-        "Swift", "UIKit", "SwiftUI", "Objective-C", "C++", "BLE", "NFC", "TrueDepth", "MVC", "MVVM"
       ]
     }
   ]
