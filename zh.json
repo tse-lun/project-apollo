@@ -16,7 +16,7 @@
     {"title":"架構與設計", "details":["RESTful API","MVC, WebFlux","IoC, AOP"]},
     {"title":"語言", "details":["英語: 母語","中文: 母語"]}
   ],
-  "introduction": [
+  "summary": [
     {
       "title": "個人簡介",
       "details": [
