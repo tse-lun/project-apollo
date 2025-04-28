@@ -1,67 +1,21 @@
 {
-  "name": "邱澤倫",
-  "position": "後端開發工程師",
-  "edus": [
-    {
-      "univ": "Simon Fraser University",
-      "loc": "本拿比市/卑詩省/加拿大",
-      "degree": "BSc - Computer Science",
-      "grad": "大學畢業",
-      "dur": "2018/09~2020/09"
-    }
+  "me": "邱澤倫 | 後端開發工程師",
+  "education": [
+    {"title":"Simon Fraser University", "details":["本拿比市/卑詩省/加拿大","BSc - Computer Science","大學畢業","2018/09~2020/09"]}
   ],
-  "skills": {
-    "prog": {
-      "backend": [
-        "Java (17+)",
-        "Spring & Spring Boot",
-        "PHP",
-        "JPA, Hibernate"
-      ],
-      "frontend": [
-        "HTML",
-        "CSS",
-        "JS (AJAX)",
-        "Swift"
-      ],
-      "db": [
-        "Oracle (PL/SQL)",
-        "MySQL",
-        "PostgreSQL",
-        "Flyway",
-        "AWS"
-      ],
-      "sec": [
-        "角色認證",
-        "JWT",
-        "OAuth2"
-      ],
-      "test": [
-        "單元/整合測試",
-        "JUnit5",
-        "Mockito",
-        "Postman",
-        "Rest Assured"
-      ],
-      "ci_cd": [
-        "Docker",
-        "Kubernetes (K8s)",
-        "Git",
-        "GitHub Actions"
-      ],
-      "arch": [
-        "RESTful API",
-        "MVC, WebFlux",
-        "IoC, AOP"
-      ]
-    },
-    "certs": [
-      "AWS Certified Cloud Practitioner"
-    ],
-    "langs": {
-      "en": "Native"
-    }
-  },
+  "certifications": [
+    {"title":"AWS Certified Cloud Practitioner", "details":["Obtained May 2023"]}
+  ],
+  "skills": [
+    {"title":"Backend", "details":["Java (17+)","Spring Boot","PHP","JPA, Hibernate"]},
+    {"title":"Frontend", "details":["HTML","CSS","JS (AJAX)","Swift"]},
+    {"title":"DB & Cloud", "details":["Oracle (PL/SQL)","MySQL","PostgreSQL","Flyway","AWS"]},
+    {"title":"Security", "details":["角色認證","JWT","OAuth2"]},
+    {"title":"Testing", "details":["單元/整合測試","JUnit5","Mockito","Postman","Rest Assured"]},
+    {"title":"CI/CD", "details":["Docker","Kubernetes","Git","GitHub Actions"]},
+    {"title":"Arch & Design", "details":["RESTful API","MVC, WebFlux","IoC, AOP"]},
+    {"title":"Langs", "details":["English: Native","Chinese: Native"]}
+  ],
   "sum": "擁有豐富的程式語言與跨國團隊合作經驗，專精於 Java 與 Spring Boot 後端開發。曾參與金融科技與教育系統等關鍵專案，具備高併發系統設計經驗及雲端架構證書。能在指導有限的情況下獨立解決複雜技術挑戰，並具備卓越的問題解決能力與自我驅動的工作態度。擅於學習並持續深化技術專業。",
   "key": [
     "企業級 Java API 開發：參與金融信用查詢平台核心開發，運用 Java 17、Spring Boot 3 與 WebFlux 實現非同步處理，提升吞吐量與效能。",
