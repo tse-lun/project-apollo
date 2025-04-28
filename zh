@@ -1,107 +1,100 @@
 {
-  "personal_information": {
-    "name": "邱澤倫",
-    "title": "後端開發工程師"
-  },
-  "education": [
-    {
-      "institution": "Simon Fraser University",
-      "degree": "電腦科學學士",
-      "location": "Burnaby市, BC省, Canada",
-      "duration": "2018/09~2020/09"
-    }
-  ],
-  "skills": {
-    "programming": {
-      "backend": [
-        "Java (17+)",
-        "Spring & Spring Boot",
-        "PHP",
-        "JPA & Hibernate"
-      ],
-      "frontend_and_mobile": [
-        "HTML & CSS",
-        "JavaScript (AJAX)",
-        "Swift"
-      ],
-      "databases_and_cloud": [
-        "OracleDB (PL/SQL)",
-        "MySQL & MongoDB",
-        "Flyway",
-        "AWS"
-      ],
-      "security": [
-        "角色認證",
-        "JWT",
-        "OAuth2"
-      ],
-      "testing": [
-        "單元與整合測試",
-        "JUnit5 & Mockito",
-        "Postman",
-        "Rest Assured"
-      ],
-      "ci_cd": [
-        "Docker",
-        "Kubernetes (K8s)",
-        "Git",
-        "GitHub Actions"
-      ],
-      "architecture_and_design_patterns": [
-        "REST API",
-        "MVC & WebFlux",
-        "IoC & API"
-      ]
-    }
-  },
-  "certifications": [
-    {
-      "name": "AWS 雲端認證專業"
-    }
-  ],
-  "languages": {
-    "英文": "母語"
-  },
-  "profile": {
-    "summary": "擁有豐富的編程語言與跨國團隊合作經驗，專精於 Java 與 Spring Boot 後端開發，曾參與金融科技與教育系統核心項目，擁有高並發系統設計與雲端架構認證經驗。能夠在極少指導下獨立解決複雜的技術挑戰，並持續展現出色的問題解決能力與自我驅動工作態度。熱衷於學習並精進技術。",
-    "main_skills": [
-      "企業級 Java API 開發：為金融機構開發核心平台功能，使用 Java 17、Spring Boot 3 和 WebFlux 進行非同步處理，提升了吞吐量與效能。",
-      "雲端與 DevOps 優化：持有 AWS 雲端認證專業，熟悉 Docker 與 Kubernetes，主導 CI/CD 管道優化，提升了部署效率與系統穩定性。",
-      "跨部門與跨時區協作：於不列顛哥倫比亞大學（UBC）參與專案，將需求轉化為關鍵功能，並與內外部團隊密切合作，確保按時交付並實現項目目標。"
-    ]
-  },
-  "work_experience": [
-    {
-      "company": "不列顛哥倫比亞大學",
-      "duration": "2024/01 – 2024/12",
-      "position": "程式設計師",
-      "responsibilities": [
-        "重構學生宿舍系統，將原本的 Java 桌面應用程式轉換為基於網頁架構，使用 PHP 和 PL/SQL，透過 AJAX 改善頁面效能，並為員工提供有關宿舍的 SSRS 報告，以支持業務流程與決策。",
-        "參與 Workday Student 與 SIS 整合專案，負責設計數據交換過程、API 設計及數據轉換，確保數據的一致性，並與 Workday 團隊合作調整 API 與測試。",
-        "實施學生申請與候補名單管理功能，支持學生選擇宿舍並處理付款，提供即時的付款狀態更新與通知，確保系統準確性與用戶體驗。",
-        "使用 PL/SQL 開發每晚批次資料同步過程，設計錯誤檢查機制以減少人工介入，確保數據準確。",
-        "協助導入 TouchNet 數位支付平台，取代舊有的電子支付系統，為學生提供多種支付選項，提升支付處理效率，並實施 Webhook 整合，確保即時的付款數據反饋與驗證（約 4860 萬加幣）。",
-        "通過現場訓練、在線文檔與問答會議提供技術支援與培訓，使用 ServiceNow 處理工單系統，解決用戶問題，提升操作效率。"
-      ],
-      "technologies_used": [
-        "HTML", "CSS", "JavaScript", "AJAX", "PHP", "PL/SQL", "Oracle DB"
-      ]
+  "en": {
+    "name": "Stephen Chiu",
+    "title": "Backend Engineer",
+    "education": {
+      "title": "Education",
+      "school": "Simon Fraser University",
+      "location": "Burnaby, BC, Canada",
+      "degree": "Bachelor of Computer Science"
     },
-    {
-      "company": "Konrad Group",
-      "duration": "2022/05 – 2023/09",
-      "position": "軟體工程師",
-      "responsibilities": [
-        "為 Amex 開發 MyCreditGuide 和 CreditSecure 核心模組，讓 Amex 能夠利用 Experian 進行即時信用記錄查詢與變更通知，顯著提升了用戶體驗與服務品質。",
-        "使用 Java 17 和 Spring Boot 3 開發高效能後端服務，利用 WebFlux 處理高並發非同步請求，並集成 Spring Security 和 OAuth 2.0 強化數據傳輸與儲存的安全性。",
-        "創建 Docker 映像檔，促進無縫部署到 AWS EC2 上的 Kubernetes（K8s），有效提高資源利用率並增強系統可擴展性。",
-        "與跨部門團隊（前端、DevOps、QA、PM）及跨時區的外部團隊緊密協作，確保系統一致性，並利用 Jira 管理技術規格與需求，確保專案按時交付。",
-        "設計並實現高效的 RESTful API，使用 JSON 進行數據交換，採用 OpenAPI 標準生成 API 文檔，並通過 Confluence 促進跨部門協作，利用 Rest Assured 測試 API 穩定性與可用性。",
-        "優化 CI/CD 管道，顯著提高部署效率，並撰寫單元與整合測試以確保程式碼質量，支持系統穩定的快速迭代與持續交付。"
-      ],
-      "technologies_used": [
-        "Java 17", "Spring Boot 3", "WebFlux", "Spring Security", "OAuth 2.0", "Redis", "Docker", "AWS", "Kubernetes", "Git", "Jira", "OpenAPI", "JUnit5", "Mockito", "Confluence"
+    "skills": {
+      "title": "Skills",
+      "backend": ["Java", "Spring Boot", "PHP"],
+      "frontend": ["HTML", "CSS", "JavaScript"],
+      "database": ["MySQL", "Oracle"]
+    },
+    "certifications": {
+      "title": "Certifications",
+      "certification": "AWS Cloud Practitioner"
+    },
+    "languages": {
+      "title": "Languages",
+      "english": "Native"
+    },
+    "introduction": {
+      "title": "Introduction",
+      "text": "Experienced Backend Engineer specializing in Java and Spring Boot."
+    },
+    "experience": {
+      "title": "Experience",
+      "jobs": [
+        {
+          "company": "UBC",
+          "position": "Programmer Analyst",
+          "responsibilities": ["Developed web applications", "Collaborated with cross-functional teams"],
+          "technologies": ["Java", "PHP", "PL/SQL"]
+        },
+        {
+          "company": "Konrad Group",
+          "position": "Software Engineer",
+          "responsibilities": [
+            "Developed core modules for Amex's MyCreditGuide and CreditSecure, enabling Amex to perform real-time credit record queries and change notifications.",
+            "Developed high-performance backend services using Java 17 and Spring Boot 3, handling high-concurrency asynchronous requests with WebFlux.",
+            "Created Docker images to facilitate seamless deployment to AWS EC2 with Kubernetes (K8s), improving resource utilization and system scalability."
+          ],
+          "technologies": ["Java 17", "Spring Boot 3", "WebFlux", "Spring Security", "OAuth 2.0", "Redis", "Docker", "AWS", "Kubernetes"]
+        }
       ]
     }
-  ]
+  },
+  "zh": {
+    "name": "邱澤倫",
+    "title": "後端開發工程師",
+    "education": {
+      "title": "教育背景",
+      "school": "Simon Fraser University",
+      "location": "Burnaby市, BC省, Canada",
+      "degree": "電腦科學學士"
+    },
+    "skills": {
+      "title": "技能",
+      "backend": ["Java", "Spring Boot", "PHP"],
+      "frontend": ["HTML", "CSS", "JavaScript"],
+      "database": ["MySQL", "Oracle"]
+    },
+    "certifications": {
+      "title": "認證",
+      "certification": "AWS 雲端認證專業"
+    },
+    "languages": {
+      "title": "語言能力",
+      "english": "母語"
+    },
+    "introduction": {
+      "title": "簡介",
+      "text": "擁有豐富的編程語言與跨國團隊合作經驗，專精於 Java 與 Spring Boot 後端開發。"
+    },
+    "experience": {
+      "title": "工作經歷",
+      "jobs": [
+        {
+          "company": "不列顛哥倫比亞大學",
+          "position": "程式設計師",
+          "responsibilities": ["開發網頁應用程式", "與跨部門團隊合作"],
+          "technologies": ["Java", "PHP", "PL/SQL"]
+        },
+        {
+          "company": "Konrad Group",
+          "position": "軟體工程師",
+          "responsibilities": [
+            "為 Amex 開發 MyCreditGuide 和 CreditSecure 核心模組，提升即時信用記錄查詢與變更通知功能。",
+            "使用 Java 17 和 Spring Boot 3 開發高效能後端服務，處理高並發非同步請求，並使用 WebFlux。",
+            "創建 Docker 映像檔，促進無縫部署至 AWS EC2 上的 Kubernetes (K8s)，提高資源利用率與系統可擴展性。"
+          ],
+          "technologies": ["Java 17", "Spring Boot 3", "WebFlux", "Spring Security", "OAuth 2.0", "Redis", "Docker", "AWS", "Kubernetes"]
+        }
+      ]
+    }
+  }
 }
