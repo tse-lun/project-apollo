@@ -1,12 +1,7 @@
 {
   "personal_information": {
     "name": "邱澤倫",
-    "title": "後端開發工程師",
-    "contact_info": {
-      "email": "your-email@example.com",
-      "phone": "+1-234-567-890",
-      "location": "Taipei, Taiwan"
-    }
+    "title": "後端開發工程師"
   },
   "education": [
     {
